@@ -5,3 +5,5 @@ class AI(Player):
         self.name = 'Robot'
         super().__init__()
         pass
+
+    
